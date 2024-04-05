@@ -5,12 +5,12 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/johnfercher/maroto/v2/pkg/consts/extension"
-	"github.com/johnfercher/maroto/v2/pkg/consts/fontfamily"
-	"github.com/johnfercher/maroto/v2/pkg/consts/fontstyle"
-	"github.com/johnfercher/maroto/v2/pkg/consts/protection"
-	"github.com/johnfercher/maroto/v2/pkg/consts/provider"
-	"github.com/johnfercher/maroto/v2/pkg/props"
+	"github.com/miguelbernadi/maroto/v2/pkg/consts/extension"
+	"github.com/miguelbernadi/maroto/v2/pkg/consts/fontfamily"
+	"github.com/miguelbernadi/maroto/v2/pkg/consts/fontstyle"
+	"github.com/miguelbernadi/maroto/v2/pkg/consts/protection"
+	"github.com/miguelbernadi/maroto/v2/pkg/consts/provider"
+	"github.com/miguelbernadi/maroto/v2/pkg/props"
 )
 
 func TestConfig_ToMap(t *testing.T) {

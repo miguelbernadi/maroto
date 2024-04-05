@@ -4,14 +4,14 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/johnfercher/maroto/v2/pkg/components/col"
-	"github.com/johnfercher/maroto/v2/pkg/components/page"
-	"github.com/johnfercher/maroto/v2/pkg/components/row"
-	"github.com/johnfercher/maroto/v2/pkg/config"
-	"github.com/johnfercher/maroto/v2/pkg/core"
-	"github.com/johnfercher/maroto/v2/pkg/test"
+	"github.com/miguelbernadi/maroto/v2/pkg/components/col"
+	"github.com/miguelbernadi/maroto/v2/pkg/components/page"
+	"github.com/miguelbernadi/maroto/v2/pkg/components/row"
+	"github.com/miguelbernadi/maroto/v2/pkg/config"
+	"github.com/miguelbernadi/maroto/v2/pkg/core"
+	"github.com/miguelbernadi/maroto/v2/pkg/test"
 
-	"github.com/johnfercher/maroto/v2"
+	"github.com/miguelbernadi/maroto/v2"
 
 	"github.com/stretchr/testify/assert"
 )

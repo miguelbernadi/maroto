@@ -3,7 +3,7 @@ package fontstyle_test
 import (
 	"testing"
 
-	"github.com/johnfercher/maroto/v2/pkg/consts/fontstyle"
+	"github.com/miguelbernadi/maroto/v2/pkg/consts/fontstyle"
 	"github.com/stretchr/testify/assert"
 )
 

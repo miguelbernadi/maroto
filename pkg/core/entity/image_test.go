@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/johnfercher/maroto/v2/pkg/consts/extension"
+	"github.com/miguelbernadi/maroto/v2/pkg/consts/extension"
 )
 
 func TestImage_AppendMap(t *testing.T) {

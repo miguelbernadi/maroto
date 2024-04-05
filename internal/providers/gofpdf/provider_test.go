@@ -6,18 +6,18 @@ import (
 	"testing"
 	"time"
 
-	"github.com/johnfercher/maroto/v2/pkg/consts/barcode"
+	"github.com/miguelbernadi/maroto/v2/pkg/consts/barcode"
 
-	"github.com/johnfercher/maroto/v2/internal/fixture"
-	"github.com/johnfercher/maroto/v2/internal/merror"
-	"github.com/johnfercher/maroto/v2/mocks"
-	"github.com/johnfercher/maroto/v2/pkg/consts/extension"
-	"github.com/johnfercher/maroto/v2/pkg/consts/protection"
+	"github.com/miguelbernadi/maroto/v2/internal/fixture"
+	"github.com/miguelbernadi/maroto/v2/internal/merror"
+	"github.com/miguelbernadi/maroto/v2/mocks"
+	"github.com/miguelbernadi/maroto/v2/pkg/consts/extension"
+	"github.com/miguelbernadi/maroto/v2/pkg/consts/protection"
 	"github.com/stretchr/testify/mock"
 
-	"github.com/johnfercher/maroto/v2/internal/providers/gofpdf"
+	"github.com/miguelbernadi/maroto/v2/internal/providers/gofpdf"
 
-	"github.com/johnfercher/maroto/v2/pkg/core/entity"
+	"github.com/miguelbernadi/maroto/v2/pkg/core/entity"
 	"github.com/stretchr/testify/assert"
 )
 

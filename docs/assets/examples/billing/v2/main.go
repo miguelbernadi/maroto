@@ -3,19 +3,19 @@ package main
 import (
 	"log"
 
-	"github.com/johnfercher/maroto/v2"
+	"github.com/miguelbernadi/maroto/v2"
 
-	"github.com/johnfercher/maroto/v2/pkg/components/code"
-	"github.com/johnfercher/maroto/v2/pkg/components/col"
-	"github.com/johnfercher/maroto/v2/pkg/components/image"
-	"github.com/johnfercher/maroto/v2/pkg/components/row"
-	"github.com/johnfercher/maroto/v2/pkg/components/text"
-	"github.com/johnfercher/maroto/v2/pkg/consts/align"
-	"github.com/johnfercher/maroto/v2/pkg/consts/fontstyle"
+	"github.com/miguelbernadi/maroto/v2/pkg/components/code"
+	"github.com/miguelbernadi/maroto/v2/pkg/components/col"
+	"github.com/miguelbernadi/maroto/v2/pkg/components/image"
+	"github.com/miguelbernadi/maroto/v2/pkg/components/row"
+	"github.com/miguelbernadi/maroto/v2/pkg/components/text"
+	"github.com/miguelbernadi/maroto/v2/pkg/consts/align"
+	"github.com/miguelbernadi/maroto/v2/pkg/consts/fontstyle"
 
-	"github.com/johnfercher/maroto/v2/pkg/config"
-	"github.com/johnfercher/maroto/v2/pkg/core"
-	"github.com/johnfercher/maroto/v2/pkg/props"
+	"github.com/miguelbernadi/maroto/v2/pkg/config"
+	"github.com/miguelbernadi/maroto/v2/pkg/core"
+	"github.com/miguelbernadi/maroto/v2/pkg/props"
 )
 
 func main() {

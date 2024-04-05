@@ -4,13 +4,13 @@ import (
 	"log"
 	"os"
 
-	"github.com/johnfercher/maroto/v2/pkg/core"
+	"github.com/miguelbernadi/maroto/v2/pkg/core"
 
-	"github.com/johnfercher/maroto/v2"
+	"github.com/miguelbernadi/maroto/v2"
 
-	"github.com/johnfercher/maroto/v2/pkg/components/text"
-	"github.com/johnfercher/maroto/v2/pkg/config"
-	"github.com/johnfercher/maroto/v2/pkg/props"
+	"github.com/miguelbernadi/maroto/v2/pkg/components/text"
+	"github.com/miguelbernadi/maroto/v2/pkg/config"
+	"github.com/miguelbernadi/maroto/v2/pkg/props"
 )
 
 var dummyText = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac condimentum sem."

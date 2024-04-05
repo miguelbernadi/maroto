@@ -6,9 +6,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/johnfercher/maroto/v2/pkg/repository"
+	"github.com/miguelbernadi/maroto/v2/pkg/repository"
 
-	"github.com/johnfercher/maroto/v2/pkg/consts/fontstyle"
+	"github.com/miguelbernadi/maroto/v2/pkg/consts/fontstyle"
 	"github.com/stretchr/testify/assert"
 )
 

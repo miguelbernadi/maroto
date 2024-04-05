@@ -3,12 +3,12 @@ package row_test
 import (
 	"testing"
 
-	"github.com/johnfercher/maroto/v2/internal/fixture"
-	"github.com/johnfercher/maroto/v2/mocks"
-	"github.com/johnfercher/maroto/v2/pkg/components/col"
-	"github.com/johnfercher/maroto/v2/pkg/components/row"
-	"github.com/johnfercher/maroto/v2/pkg/core/entity"
-	"github.com/johnfercher/maroto/v2/pkg/test"
+	"github.com/miguelbernadi/maroto/v2/internal/fixture"
+	"github.com/miguelbernadi/maroto/v2/mocks"
+	"github.com/miguelbernadi/maroto/v2/pkg/components/col"
+	"github.com/miguelbernadi/maroto/v2/pkg/components/row"
+	"github.com/miguelbernadi/maroto/v2/pkg/core/entity"
+	"github.com/miguelbernadi/maroto/v2/pkg/test"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,7 +3,7 @@
 package mocks
 
 import (
-	core "github.com/johnfercher/maroto/v2/pkg/core"
+	core "github.com/miguelbernadi/maroto/v2/pkg/core"
 	mock "github.com/stretchr/testify/mock"
 
 	node "github.com/johnfercher/go-tree/node"

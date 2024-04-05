@@ -3,11 +3,11 @@ package text_test
 import (
 	"testing"
 
-	"github.com/johnfercher/maroto/v2/internal/fixture"
-	"github.com/johnfercher/maroto/v2/mocks"
-	"github.com/johnfercher/maroto/v2/pkg/components/text"
-	"github.com/johnfercher/maroto/v2/pkg/core/entity"
-	"github.com/johnfercher/maroto/v2/pkg/test"
+	"github.com/miguelbernadi/maroto/v2/internal/fixture"
+	"github.com/miguelbernadi/maroto/v2/mocks"
+	"github.com/miguelbernadi/maroto/v2/pkg/components/text"
+	"github.com/miguelbernadi/maroto/v2/pkg/core/entity"
+	"github.com/miguelbernadi/maroto/v2/pkg/test"
 )
 
 func TestNew(t *testing.T) {

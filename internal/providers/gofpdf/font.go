@@ -1,9 +1,9 @@
 package gofpdf
 
 import (
-	"github.com/johnfercher/maroto/v2/internal/providers/gofpdf/gofpdfwrapper"
-	"github.com/johnfercher/maroto/v2/pkg/consts/fontstyle"
-	"github.com/johnfercher/maroto/v2/pkg/props"
+	"github.com/miguelbernadi/maroto/v2/internal/providers/gofpdf/gofpdfwrapper"
+	"github.com/miguelbernadi/maroto/v2/pkg/consts/fontstyle"
+	"github.com/miguelbernadi/maroto/v2/pkg/props"
 )
 
 const (

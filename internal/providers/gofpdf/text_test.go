@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/johnfercher/maroto/v2/internal/providers/gofpdf"
+	"github.com/miguelbernadi/maroto/v2/internal/providers/gofpdf"
 
-	"github.com/johnfercher/maroto/v2/mocks"
+	"github.com/miguelbernadi/maroto/v2/mocks"
 	"github.com/stretchr/testify/assert"
 )
 
