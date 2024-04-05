@@ -69,6 +69,9 @@ func (r *FontRepository) AddUTF8FontFromBytes(family string, style fontstyle.Typ
 // Load loads all custom fonts.
 func (r *FontRepository) Load() ([]*entity.CustomFont, error) {
 	for _, customFont := range r.customFonts {
+		if customFont.File != "" {
+			continue
+		}
 		bytes, err := os.ReadFile(customFont.File)
 		if err != nil {
 			return nil, err
