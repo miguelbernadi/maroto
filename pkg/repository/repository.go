@@ -11,6 +11,7 @@ import (
 // Repository is the abstraction to load custom fonts.
 type Repository interface {
 	AddUTF8Font(family string, style fontstyle.Type, file string) Repository
+	AddUTF8FontFromBytes(family string, style fontstyle.Type, bytes []byte) Repository
 	Load() ([]*entity.CustomFont, error)
 }
 
